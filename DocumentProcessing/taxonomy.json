@@ -1,0 +1,449 @@
+﻿{
+  "DataContractVersion": "1.1",
+  "DocumentTypes": [
+    {
+      "Connections": [],
+      "DocumentTypeId": "MGTIndustries.Accounts.Invoices",
+      "Group": "MGT Industries",
+      "Category": "Accounts",
+      "Name": "Invoices",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "MGTIndustries.Accounts.Invoices.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.InvoiceDate",
+          "FieldName": "Invoice Date",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "v"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.OrderNo",
+          "FieldName": "Order No",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#fa6616"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.InvoiceNo",
+          "FieldName": "Invoice No",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#fcd98f"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "c"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Name",
+          "FieldName": "Name",
+          "IsMultiValue": false,
+          "Type": "Name",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#b34692"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.CompanyName",
+          "FieldName": "Company Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#b752f9"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "m"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Item1#",
+          "FieldName": "Item1#",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#c2b897"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Item2#",
+          "FieldName": "Item2#",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#75bb9c"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "2"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Item1",
+          "FieldName": "Item1",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#c88074"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "1"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Item2",
+          "FieldName": "Item2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#2bb4cf"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "q"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.OTY1",
+          "FieldName": "OTY1",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#6eb84a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "y"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.OTY2",
+          "FieldName": "OTY2",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#00dd6f"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "w"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Price1",
+          "FieldName": "Price1",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#9522d4"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "g"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Price2",
+          "FieldName": "Price2",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#949cd5"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "h"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        },
+        {
+          "FieldId": "MGTIndustries.Accounts.Invoices.Total",
+          "FieldName": "Total",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#d8c342"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "l"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
+        }
+      ]
+    }
+  ],
+  "Groups": [
+    {
+      "Name": "MGT Industries",
+      "Categories": [
+        "Accounts"
+      ]
+    }
+  ],
+  "SupportedLanguages": [
+    {
+      "Name": "Undetermined Language",
+      "Code": "und"
+    },
+    {
+      "Name": "Bulgarian",
+      "Code": "bul"
+    },
+    {
+      "Name": "Cantonese",
+      "Code": "yue"
+    },
+    {
+      "Name": "Danish",
+      "Code": "dan"
+    },
+    {
+      "Name": "Dutch",
+      "Code": "nld"
+    },
+    {
+      "Name": "English",
+      "Code": "eng"
+    },
+    {
+      "Name": "French",
+      "Code": "fra"
+    },
+    {
+      "Name": "Georgian",
+      "Code": "kat"
+    },
+    {
+      "Name": "German",
+      "Code": "deu"
+    },
+    {
+      "Name": "Greek",
+      "Code": "ell"
+    },
+    {
+      "Name": "Hebrew",
+      "Code": "heb"
+    },
+    {
+      "Name": "Hindi",
+      "Code": "hin"
+    },
+    {
+      "Name": "Italian",
+      "Code": "ita"
+    },
+    {
+      "Name": "Japanese",
+      "Code": "jpn"
+    },
+    {
+      "Name": "Korean",
+      "Code": "kor"
+    },
+    {
+      "Name": "Macedonian",
+      "Code": "mkd"
+    },
+    {
+      "Name": "Mandarin",
+      "Code": "zho"
+    },
+    {
+      "Name": "Marathi",
+      "Code": "mar"
+    },
+    {
+      "Name": "Norwegian",
+      "Code": "nor"
+    },
+    {
+      "Name": "Polish",
+      "Code": "pol"
+    },
+    {
+      "Name": "Portuguese",
+      "Code": "por"
+    },
+    {
+      "Name": "Romanian",
+      "Code": "ron"
+    },
+    {
+      "Name": "Russian",
+      "Code": "rus"
+    },
+    {
+      "Name": "Serbian",
+      "Code": "srp"
+    },
+    {
+      "Name": "Spanish",
+      "Code": "spa"
+    },
+    {
+      "Name": "Swedish",
+      "Code": "swe"
+    },
+    {
+      "Name": "Telugu",
+      "Code": "tel"
+    },
+    {
+      "Name": "Turkish",
+      "Code": "tur"
+    }
+  ]
+}

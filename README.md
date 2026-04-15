@@ -39,6 +39,7 @@ The project demonstrates how RPA can handle large volumes of unstructured or sem
 
 ## 📂 Project Structure
 RPA-PDF-Extraction/
+
 │
 ├── Main.xaml              # Main automation workflow  
 ├── project.json           # Project configuration  
@@ -67,7 +68,7 @@ RPA-PDF-Extraction/
 ### 🔹 Steps to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rpa-pdf-extraction.git
+   git clone https://github.com/shinchan-777/RPA_Multiple_PDF_Extraction.git
 
 # 📌 Use Cases
 📄 Invoice data extraction

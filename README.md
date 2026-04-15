@@ -39,7 +39,6 @@ The project demonstrates how RPA can handle large volumes of unstructured or sem
 
 ## 📂 Project Structure
 RPA-PDF-Extraction/
-
 │
 
 ├── Main.xaml              # Main automation workflow  

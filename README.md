@@ -39,6 +39,7 @@ The project demonstrates how RPA can handle large volumes of unstructured or sem
 
 ## 📂 Project Structure
 RPA-Email-Automation/
+
 │
 ├── Main.xaml              # Main automation workflow  
 ├── project.json           # Project configuration  
